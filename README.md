@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <img src="./screenshots/HomePage.png" alt="Home Page" width="900">
+  <img src="./screenshots/Homepage.png" alt="Home Page" width="900">
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ In addition to churn prediction, the application provides:
 
 ## 🏠 Home Page
 
-![Home](screenshots/HomePage.png)
+![Home](screenshots/Homepage.png)
 
 ---
 
