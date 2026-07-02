@@ -26,7 +26,7 @@ An end-to-end Machine Learning application that predicts telecom customer churn 
 
 ## 🚀 Live Demo
 
-🌐 **Web Application:** Coming Soon
+🌐 **Web Application:** https://customer-churn-prediction-53klmerjuephvm8gikubjr.streamlit.app
 
 ---
 
@@ -215,7 +215,7 @@ The application generates a downloadable business report containing:
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/customer-churn-prediction.git
+git clone https://github.com/rayansingh955/customer-churn-prediction.git
 ```
 
 Move to the project directory
